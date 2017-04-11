@@ -1,5 +1,5 @@
 # DELL-Inspiron-7557-Fan
-This is a hotpatch for Hackintosh installed on DELL 7557 to read the speed of two fans in the laptops.
+This is a hotpatch for Hackintosh installed on DELL 7557 to read the speed of two fans in the laptop.
 # Usage
 This hotpatch is based on FakeSMC (RehabMan builds) and Clover, you can download them here.
 
