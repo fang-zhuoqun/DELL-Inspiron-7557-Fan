@@ -3,6 +3,7 @@ This is a hotpatch for Hackintosh installed on DELL 7557 to read the speed of tw
 # Usage
 This hotpatch is based on FakeSMC (RehabMan builds) and Clover, you can download them here:
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+
 https://sourceforge.net/projects/cloverefiboot/
 ## Prepare
 Firstly, make Clover as your EFI boot and put the FakeSMC.kext, FakeSMC_ACPISensors.kext into the kext directory under CLOVER.
