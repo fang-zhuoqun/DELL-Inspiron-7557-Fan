@@ -73,7 +73,6 @@ DefinitionBlock ("", "SSDT", 2, "hack", "fan", 0)
             }
             Return (Local0)
         }
-
      }
 }
 //EOF
