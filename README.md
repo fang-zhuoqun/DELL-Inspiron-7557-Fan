@@ -8,6 +8,7 @@ FakeSMC (RehabMan builds): https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/do
 Clover: https://sourceforge.net/projects/cloverefiboot/
 ## Prepare
 Firstly, make Clover as your EFI boot and put the FakeSMC.kext, FakeSMC_ACPISensors.kext into the kext directory under CLOVER.
+
 Secondly, install FakeSMC.kext, FakeSMC_ACPISensors.kext using Kext Utility into the S/L/E Directory on your volumn of OS X.
 ## Install
 compile the .dsl file with MaciASL on Hackintosh into .aml File, and put the compiled .aml file into the ACPI/patched directory under CLOVER.
